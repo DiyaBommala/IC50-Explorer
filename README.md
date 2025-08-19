@@ -1,6 +1,6 @@
 # IC50 Explorer · 4-Parameter Logistic (4PL)
 
-**Live demo:** <https://YOUR-APP-URL.streamlit.app>  
+**Live demo:** <https://ic50-explorer-d3tbcapzutpji7ysdz96sb.streamlit.app/>
 **Tech:** Streamlit · Python · NumPy · SciPy · Matplotlib
 
 Small web app that fits **4PL dose–response curves** and reports **EC50**, **Hill slope**, and **R²** per sample.
