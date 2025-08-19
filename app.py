@@ -1,3 +1,11 @@
+"""
+IC50 Explorer — Streamlit app for 4-parameter logistic (4PL) dose–response fits.
+
+Upload CSV with columns: sample, concentration (>0), response.
+Outputs per-sample EC50, Hill slope, R², and plotted fits.
+Run locally: pip install -r requirements.txt && streamlit run app.py
+"""
+
 import io, base64
 import numpy as np
 import pandas as pd
